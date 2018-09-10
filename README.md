@@ -7,6 +7,6 @@ Then it will ask for Rule and we can set the rule.
 The data violating the rule will be returned.
 
 
-The rules validation class does all the work.After entering Signal it finds out the dataType and based on our input rule, it filtes data which violates the rule.
+The rules validation class does all the work.After entering Signal it finds out the dataType and based on our input rule, it filters data which violates the rule.
 
 More improvement could have been done on structuring of Project.I could have developed using Service/Repository patterns.
