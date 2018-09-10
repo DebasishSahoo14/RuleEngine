@@ -1,0 +1,11 @@
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.1\RuleEngine.deps.json
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.1\RuleEngine.runtimeconfig.json
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.1\RuleEngine.runtimeconfig.dev.json
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.1\RuleEngine.dll
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.1\RuleEngine.pdb
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.1\RuleEngine.csprojAssemblyReference.cache
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.1\RuleEngine.csproj.CoreCompileInputs.cache
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.1\RuleEngine.AssemblyInfoInputs.cache
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.1\RuleEngine.AssemblyInfo.cs
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.1\RuleEngine.dll
+C:\Users\debasish.sahoo\Source\Repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.1\RuleEngine.pdb
